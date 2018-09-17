@@ -1,0 +1,5 @@
+{
+  "@extends": "Element",
+  "label": "string",
+  "value": "any"
+}

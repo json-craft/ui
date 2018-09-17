@@ -1,0 +1,5 @@
+{
+  "@extends": "Cell",
+  "action": "string",
+  "entityId": "int64"
+}
